@@ -37,7 +37,8 @@ The goal was to build a clean and responsive **portfolio-style layout** using on
 ---
 
 ## 🌐 Live Site  
-👉 [View on Netlify](https://html-assignment-7-portfolio.netlify.app)
+👉 [View on Netlify](https://html-assignment-7-portfolio-website.netlify.app)
+
 
 ## 📁 GitHub Repository  
 👉 [View Repository](https://github.com/Amna7877/HTML-Assignment-7-Portfolio-Website)
